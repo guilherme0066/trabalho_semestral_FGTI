@@ -7,13 +7,13 @@ FATEC de São José dos Campos - Professor Jessen Vidal - 2023/2
 Matéria: Fundamentos de Gestão da Tecnologia da Informação
 
 # Contexto do Projeto
-Para pessoas que vão à academia, que estão em busca de melhorar o condicionamento, o ForcePass é um aplicativo que estabelece desafios de execícios, que quando completados geram pontuações que podem ser convertidas em descontos nas mensalidades da sua academia. Ao contrário de aplicativos de exercícios populares, que visam atividades fora das academias e sem um acompanhamento de um profissional, o Force Pass busca incentivar uma vida saudável, dentro de ambientes preparados, através de metas e descontos que podem auxiliar o usuário a manter a frequência das atividades.
+O objetivo é desenvolver um aplicativo chamado TaskShare, que auxilía no gerenciamento de tarfeas para times de pequenas empresa, startups, grupos de projetos acadêmicos ou qualquer grupo que deseje uma solução simples para o gerenciamento de tarefas. Visando um gerenciamento tanto de equipe quanto de projeto ao usuário. 
 
 # Objetivo
-Desenvolver um aplicativo que crie desafios de exercícios físicos de acordo com as informações do usuário e da academia que ele frequenta, e gere uma pontuação toda vez que os objetivos forem completados. Também, criar sistema de pontuação para descontos em mensalidades.
+Desenvolver um aplicativo simples e intuitivo que permita que pequenas equipes compartilhem, atribuam e gerenciem tarefas de forma eficiente, melhorando a comunicação e a coordenação interna.
 
 # Motivação
-Proporcionar uma vida saudável através da prática de exercícios físicos, bem como auxiliar academais locais a se desenvolverem e aumentarem a retenção de público.
+O aplicativo visa melhorar a organização, a comunicação, a atribuição de tarefas, a priorização e o acompanhamento das tarefas, tornando o trabalho em equipe mais eficiente e produtivo. Isso pode levar a uma melhor qualidade de trabalho, maior satisfação da equipe e melhores resultados para a organização como um todo.
 
 # Artefatos da Entrega 1
 Project Model Canvas 
