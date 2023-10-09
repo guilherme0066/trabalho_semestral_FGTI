@@ -16,6 +16,5 @@ Desenvolver um aplicativo simples e intuitivo que permita que pequenas equipes c
 O aplicativo visa melhorar a organização, a comunicação, a atribuição de tarefas, a priorização e o acompanhamento das tarefas, tornando o trabalho em equipe mais eficiente e produtivo. Isso pode levar a uma melhor qualidade de trabalho, maior satisfação da equipe e melhores resultados para a organização como um todo.
 
 # Artefatos da Entrega 1
-Project Model Canvas 
-
-Personas
+- <a href="https://github.com/guilherme0066/trabalho_semestral_FGTI/tree/main/Personas">Personas</a>
+- <a href="https://github.com/guilherme0066/trabalho_semestral_FGTI/tree/main/Canvas">Product Model Canvas</a>
