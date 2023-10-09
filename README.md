@@ -7,7 +7,7 @@ FATEC de São José dos Campos - Professor Jessen Vidal - 2023/2
 Matéria: Fundamentos de Gestão da Tecnologia da Informação
 
 # Contexto do Projeto
-O objetivo é desenvolver um aplicativo chamado TaskShare, que auxilía no gerenciamento de tarfeas para times de pequenas empresa, startups, grupos de projetos acadêmicos ou qualquer grupo que deseje uma solução simples para o gerenciamento de tarefas. Visando um gerenciamento tanto de equipe quanto de projeto ao usuário. 
+O objetivo é desenvolver um aplicativo chamado TaskShare, que auxilia no gerenciamento de tarefas para times de pequenas empresa, startups, grupos de projetos acadêmicos ou qualquer grupo que deseje uma solução simples para o gerenciamento de tarefas. Visando um gerenciamento tanto de equipe quanto de projeto ao usuário. 
 
 # Objetivo
 Desenvolver um aplicativo simples e intuitivo que permita que pequenas equipes compartilhem, atribuam e gerenciem tarefas de forma eficiente, melhorando a comunicação e a coordenação interna.
