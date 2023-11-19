@@ -14,38 +14,38 @@ investimentos que possam ser necessários após o desenvolvimento.
 <h4>💲 Custo da Equipe:</h4>
 
 - Salário Médio Mensal por Membro da Equipe: R$4.000,00
-- Número de Membros da Equipe: 6
-- Custo total da equipe por mês: R$24.000,00
+- Número de Membros da Equipe: 5
+- Custo total da equipe por mês: R$20.000,00
 - Tempo de realização de 1 Sprint: 14 dias
 
 <h4>☑️ Release 1 (Até 15/09/2023)</h4>
 
 1. Planejamento e Desenvolvimento: 2 Sprints
  - Custo = (2 Sprints) * (Custo da Equipe)
- - Custo total = R$24.000
+ - Custo total = R$20.000
 
 <h4>☑️ Release 2 (Até 30/10/2023)</h4>
 
 1. Planejamento e Desenvolvimento: 2 Sprints
  - Custo = (2 Sprints) * (Custo da Equipe)
- - Custo total = R$24.000,00
+ - Custo total = R$20.000,00
 
 <h4>☑️ Release 3 (Até 15/11/2023)</h4>
 
 1. Planejamento e Desenvolvimento: 1 Sprints
  - Custo = (1 Sprints) * (Custo da Equipe)
- - Custo total = R$12.000,00
+ - Custo total = R$10.000,00
 
 <h4>☑️ Release 4 (Até 15/12/2023)</h4>
 
 1. Refinamento e finalização
  - Custo = Custo da Equipe por mês
- - Custo total = R$24.000,00
+ - Custo total = R$20.000,00
 
 <h4>💰 Custo Total do Projeto:</h4>
 
 - Custo Total = Custo Release 1 + Custo Release 2 + Custo Release 3 + Custo Release 4
-- Custo Total = 24.000 + 24.000 + 12.000 + 24.000 = R$84.000,00
+- Custo Total = 20.000 + 20.000 + 10.000 + 20.000 = R$70.000,00
 
 <h4>📌 Observações:</h4>
 
