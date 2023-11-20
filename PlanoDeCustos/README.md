@@ -24,7 +24,7 @@ investimentos que possam ser necessários após o desenvolvimento.
  - Custo = (2 Sprints) * (Custo da Equipe)
  - Custo total = R$20.000
 
-<h4>☑️ Release 2 (Até 15/10/2023)</h4>
+<h4>☑️ Release 2 (Até 30/10/2023)</h4>
 
 1. Planejamento e Desenvolvimento: 2 Sprints
  - Custo = (2 Sprints) * (Custo da Equipe)
