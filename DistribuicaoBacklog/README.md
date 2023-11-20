@@ -25,7 +25,7 @@ Cerimônias Recorrentes em Todas as Sprints:
 2. Desenvolvimento e Implementação (16 - 29/08/2023):
    - Tempo restante da Sprint dedicado ao desenvolvimento das User Stories selecionadas.
 
-<img src="">
+<img src="https://github.com/guilherme0066/trabalho_semestral_FGTI/blob/main/DistribuicaoBacklog/sprint1.png">
 
 <h4>🎯 Sprint 2 (30/08/2023 - 15/09/2023)</h4>
 
@@ -35,7 +35,7 @@ Cerimônias Recorrentes em Todas as Sprints:
 2. Desenvolvimento e Implementação (01 - 15/09/2023):
    - Tempo restante da Sprint dedicado ao desenvolvimento das User Stories selecionadas.
 
-<img src="">
+<img src="https://github.com/guilherme0066/trabalho_semestral_FGTI/blob/main/DistribuicaoBacklog/sprint2.png">
 
 <h4>🎯 Sprint 3 (16/09/2023 - 30/09/2023)</h4>
 
@@ -45,7 +45,7 @@ Cerimônias Recorrentes em Todas as Sprints:
 2. Desenvolvimento e Implementação (17 - 30/09/2023):
    - Tempo restante da Sprint dedicado ao desenvolvimento das User Stories selecionadas.
 
-<img src="">
+<img src="https://github.com/guilherme0066/trabalho_semestral_FGTI/blob/main/DistribuicaoBacklog/sprint3.png">
 
 <h4>🎯 Sprint 4 (01/10/2023 - 17/10/2023)</h4>
 
@@ -55,4 +55,4 @@ Cerimônias Recorrentes em Todas as Sprints:
 2. Desenvolvimento e Implementação (2 - 17/10/2023):
    - Tempo restante da Sprint dedicado ao desenvolvimento das User Stories selecionadas.
 
-<img src="">
+<img src="https://github.com/guilherme0066/trabalho_semestral_FGTI/blob/main/DistribuicaoBacklog/sprint4.png">
