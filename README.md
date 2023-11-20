@@ -18,3 +18,10 @@ O aplicativo visa melhorar a organização, a comunicação, a atribuição de t
 # Artefatos da Entrega 1
 - <a href="https://github.com/guilherme0066/trabalho_semestral_FGTI/tree/main/Personas">Personas</a>
 - <a href="https://github.com/guilherme0066/trabalho_semestral_FGTI/tree/main/Canvas">Product Model Canvas</a>
+
+# Artefatos da Entrega 2
+- <a href="https://github.com/guilherme0066/trabalho_semestral_FGTI/tree/main/DistribuicaoBacklog">Distribuição do Backlog</a>
+- <a href="https://github.com/guilherme0066/trabalho_semestral_FGTI/tree/main/PlanoDeCustos">Plano de Custos</a>
+- <a href="https://github.com/guilherme0066/trabalho_semestral_FGTI/tree/main/ProductBacklog">Product Backlog</a>
+- <a href="https://github.com/guilherme0066/trabalho_semestral_FGTI/tree/main/ReleasesRoadMap">Releases e Roadmap</a>
+- <a href="https://github.com/guilherme0066/trabalho_semestral_FGTI/tree/main/UserStories">User Stories</a>
